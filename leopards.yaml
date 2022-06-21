@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD
 coach: Nicolas
+=======
+coach: Melisa
+>>>>>>> b379d1c (Edit Leopards)
 
 member:
   - Linda
